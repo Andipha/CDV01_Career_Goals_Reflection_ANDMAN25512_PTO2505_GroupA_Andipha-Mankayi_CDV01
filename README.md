@@ -15,9 +15,9 @@
 Skills Analysis
 Current Skills and Areas of Expertise:
 
--HTML, CSS, and beginner-level web development
--Git and GitHub version control
--Problem-solving and logical thinking
+HTML, CSS, and beginner-level web development
+Git and GitHub version control
+Problem-solving and logical thinking
 
 
 *Skills to Develop or Improve: 
@@ -114,7 +114,7 @@ Limited exposure to cloud services (AWS, Azure).
 
 #### 2. **Build and publish at least 3 portfolio projects on GitHub within 12 months.**
 
-* * **Specific:** Develop projects that showcase front-end, back-end, and full-stack skills.
+* **Specific:** Develop projects that showcase front-end, back-end, and full-stack skills.
 * **Measurable:** Three complete, well-documented projects.
 * **Achievable:** One project every 3–4 months is realistic with good time management.
 * **Relevant:** Showcasing work is essential for job applications.
